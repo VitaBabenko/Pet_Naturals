@@ -1,0 +1,16 @@
+{
+  "name": "petnaturals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-svg": "^0.1.0"
+  }
+}
